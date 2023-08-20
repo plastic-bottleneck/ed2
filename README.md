@@ -12,6 +12,7 @@
 |c|change a line|
 |q|quit|
 |n|list lines|
+|.|write the lines to buffer|
 
 ## //Features:
 
