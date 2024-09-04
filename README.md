@@ -1,34 +1,29 @@
-# ED2 // _Ed but better (no it's not it's just smaller)_
+<h1 align="center"> . . . . ╰──╮ ED2 ╭──╯ . . . .  </h1>
+<p align="center">‧˚₊•┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈•‧₊˚⊹ </p>
+<p align="center"> ED2 (ed2) is a part of the <a href="https://github.com/plastic-bottleneck/putils">🔗 putils</a> project for <a href="https://github.com/plastic-bottleneck/plus-linux">🔗 Plus Linux</a> </p>
+<p align="center"> It is written from scratch in C and is inspired of the original ed from AT&T Bell Laboratories. </p>
 
-> ED2 (ed2) is a part of the [putils](https://github.com/plastic-bottleneck/putils) project for [Plus Linux](https://github.com/plastic-bottleneck/plus-linux).
-> It is written from scratch in C and is inspired of the original ed from AT&T Bell Laboratories.
+<h2 align="center">╰┈➤ Usage</h2>
 
-## //Usage:
+<pre align="center">
+  a   ➡️   input text in a new line
+  w   ➡️   save the file
+  c   ➡️   change a line
+  q   ➡️    quit
+  n   ➡️   list lines
+  .   ➡️   write the lines to buffer</pre>
 
-|syntax|meaning|
-|---|---|
-|a|input text in a new line|
-|w|save the file|
-|c|change a line|
-|q|quit|
-|n|list lines|
-|.|write the lines to buffer|
+<h2 align="center">╰┈➤ Features</h2>
 
-## //Features:
-
-### )) Heartwarming syntax errors 
+### 📌 Heartwarming syntax errors 
   - ED2 has a "different" way to tell their users, that they messed up a line :)
-### )) Small!
+### 📌 Small!
   - ED2 is desinged to be small for Plus Linux to save space for other programs.
-### )) Fast >:)
+### 📌 Fast >:)
   - ED2 is the fastest editor out there because it is very small and simple made in its source!
-### )) Make it for your likes
+### 📌 Make it for your likes
   - Customise ED2 for your like in its source code!
-### )) No bloat.
-  - Yes I'm serious. Look into the code by yourself.
 
----
-
-> Made by Paul alias Plastic Bottleneck  
-> GitHub: https://github.com/plastic-bottleneck  
-> Check out my own Distro at 1.4Mb! https://github.com/plastic-bottleneck/plus-linux
+<p align="center">‧˚₊•┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈•‧₊˚⊹ </p>
+<p align="center">୨⎯ Made by Paul ❤️ Plastic Bottleneck <a href="https://github.com/plastic-bottleneck">GitHub</a> ⎯୧</p>
+<p align="center">୨⎯ Check out <a href="https://github.com/plastic-bottleneck/bashrc">Plus Linux</a> ⎯୧</p>
